@@ -6,7 +6,7 @@ A machine learning-powered web application built with **Streamlit** and **Scikit
 
 ## 🌟 Live Demo
 
-🔗 **Hosted Application:**https://heart-disease-predictor-10vs.onrender.com
+🔗 https://heart-disease-predictor-10vs.onrender.com
 
 ---
 
