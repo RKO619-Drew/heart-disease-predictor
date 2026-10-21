@@ -52,12 +52,12 @@ The model analyzes 13 key physiological factors:
 
 ---
 
+<img width="1568" height="915" alt="image" src="https://github.com/user-attachments/assets/25204cf0-0388-4ed2-a2b2-21e1f176d4ca" />
+
+
 ## ⚙️ Local Setup and Installation
 
 Follow these steps to run the application locally on your computer:
-
-
-<img width="1568" height="915" alt="image" src="https://github.com/user-attachments/assets/25204cf0-0388-4ed2-a2b2-21e1f176d4ca" />
 
 ### 1. Clone the repository
 ```bash
