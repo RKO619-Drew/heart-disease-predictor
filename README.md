@@ -60,3 +60,7 @@ Follow these steps to run the application locally on your computer:
 ```bash
 git clone [https://github.com/RKO619-Drew/heart-disease-predictor.git](https://github.com/RKO619-Drew/heart-disease-predictor.git)
 cd heart-disease-predictor
+
+
+
+<img width="1568" height="915" alt="image" src="https://github.com/user-attachments/assets/5fe70c2d-e65c-4b1a-89e1-428208721ca8" />
